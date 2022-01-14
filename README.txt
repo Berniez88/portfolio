@@ -1,2 +1,2 @@
 # Portfolio Website
-## https://berniez88.github.io/portfolio/
+https://berniez88.github.io/portfolio/
